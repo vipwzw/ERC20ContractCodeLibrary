@@ -22,6 +22,8 @@ library SafeMath {
         return c;
     }
 }
+
+[#privacy]
 contract EthereumGold {
     using SafeMath
     for uint256;
